@@ -39,4 +39,6 @@ if (year == 1995) {
 function startGame (playersCount) {
     return `Игра началась. Количество игроков: ${playersCount}`
 }
-console.log(startGame(10))
+console.log(startGame(10));
+
+
